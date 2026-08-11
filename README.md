@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/shaivisahu/Dsa/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/shaivisahu/Dsa/tree/master/0013-roman-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/shaivisahu/Dsa/tree/master/0016-3sum-closest) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/shaivisahu/Dsa/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/shaivisahu/Dsa/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
