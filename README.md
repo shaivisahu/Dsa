@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/shaivisahu/Dsa/tree/master/0016-3sum-closest) |
+| [1480-running-sum-of-1d-array](https://github.com/shaivisahu/Dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shaivisahu/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/shaivisahu/Dsa/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
